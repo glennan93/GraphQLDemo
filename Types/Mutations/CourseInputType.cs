@@ -1,4 +1,6 @@
-﻿namespace GraphQLDemo.Types.Mutations
+﻿using GraphQLDemo.Models;
+
+namespace GraphQLDemo.Types.Mutations
 {
     public class CourseInputType
     {
