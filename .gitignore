@@ -55,3 +55,4 @@ $RECYCLE.BIN/
 *.log
 *.cache
 *.pdb
+/firebase-config.json
